@@ -1,0 +1,5390 @@
+{
+  "figure_1a": {
+    "hasUserInputs": true,
+    "title": "",
+    "xAxisTitle": "Purchase Intent",
+    "yAxisTitle": "Unique",
+    "chartName": "",
+    "metadata": {
+      "baseSize": 599,
+      "chartType": "scatteredPlot",
+      "colors": [
+        "#409FE4"
+      ],
+      "xAxis": {
+        "backgroundColor": "#409FE4",
+        "textColor": "#FFFFFF"
+      },
+      "yAxis": {
+        "backgroundColor": "#409FE4",
+        "textColor": "#FFFFFF"
+      }
+    },
+    "quadrants": {
+      "topRight": {
+        "color": "#A9CE90"
+      },
+      "bottomRight": {
+        "color": "#E2E2E2"
+      },
+      "topLeft": {
+        "color": "#E2E2E2"
+      },
+      "bottomLeft": {
+        "color": "#E2E2E2"
+      }
+    },
+    "data": [
+      {
+        "attribute": 12,
+        "x": 0.702,
+        "y": 0.1987,
+        "userInputs": {
+          "label": "BOGO Shampoo - Free",
+          "path": "BOGO Shampoo - Free"
+        }
+      },
+      {
+        "attribute": 7,
+        "x": 0.66,
+        "y": 0.3467,
+        "userInputs": {
+          "label": "1/2 Off Conditioner",
+          "path": "1/2 Off Conditioner"
+        }
+      },
+      {
+        "attribute": 10,
+        "x": 0.62,
+        "y": 0.26,
+        "userInputs": {
+          "label": "30% Off Shampoo",
+          "path": "30% Off Shampoo"
+        }
+      },
+      {
+        "attribute": 5,
+        "x": 0.5302,
+        "y": 0.1745,
+        "userInputs": {
+          "label": "BOGO Shampoo - 50% Off",
+          "path": "BOGO Shampoo - 50% Off"
+        }
+      },
+      {
+        "attribute": 2,
+        "x": 0.4371,
+        "y": 0.2848,
+        "userInputs": {
+          "label": "Energizing Citrus",
+          "path": "Energizing Citrus"
+        }
+      },
+      {
+        "attribute": 1,
+        "x": 0.4161,
+        "y": 0.2819,
+        "userInputs": {
+          "label": "Calming Chamomile",
+          "path": "Calming Chamomile"
+        }
+      },
+      {
+        "attribute": 9,
+        "x": 0.4161,
+        "y": 0.2685,
+        "userInputs": {
+          "label": "Relaxing Lavender",
+          "path": "Relaxing Lavender"
+        }
+      },
+      {
+        "attribute": 8,
+        "x": 0.3826,
+        "y": 0.2282,
+        "userInputs": {
+          "label": "Free Travel Gift Set",
+          "path": "Free Travel Gift Set"
+        }
+      },
+      {
+        "attribute": 3,
+        "x": 0.3533,
+        "y": 0.1933,
+        "userInputs": {
+          "label": "$3 Off Hair Styling - Women",
+          "path": "$3 Off Hair Styling - Women"
+        }
+      },
+      {
+        "attribute": 4,
+        "x": 0.2349,
+        "y": 0.2685,
+        "userInputs": {
+          "label": "$3 Off Hair Styling - Men",
+          "path": "$3 Off Hair Styling - Men"
+        }
+      },
+      {
+        "attribute": 11,
+        "x": 0.1867,
+        "y": 0.24,
+        "userInputs": {
+          "label": "$4 Off Intense Color",
+          "path": "$4 Off Intense Color"
+        }
+      },
+      {
+        "attribute": 6,
+        "x": 0.1733,
+        "y": 0.2733,
+        "userInputs": {
+          "label": "$5 Off Intense Color",
+          "path": "$5 Off Intense Color"
+        }
+      }
+    ]
+  },
+  "figure_2a": {
+    "title": "Purchase Intent",
+    "subTitle": "(Definitely/Probably)",
+    "xAxisTitle": "",
+    "yAxisTitle": "",
+    "questionID": "",
+    "metadata": {
+      "confidenceInterval": "false",
+      "dataValue": "percent",
+      "baseSize": 599,
+      "average": "mean",
+      "chartType": "bar",
+      "orientation": "h",
+      "dataType": "1d",
+      "colors": [
+        "#00A3E6"
+      ],
+      "keyOrder": [
+        "BOGO Shampoo - Free",
+        "1/2 Off Conditioner",
+        "30% Off Shampoo",
+        "BOGO Shampoo - 50% Off",
+        "Energizing Citrus",
+        "Calming Chamomile",
+        "Relaxing Lavender",
+        "Free Travel Gift Set",
+        "$3 Off Hair Styling - Women",
+        "$3 Off Hair Styling - Men",
+        "$4 Off Intense Color",
+        "$5 Off Intense Color"
+      ]
+    },
+    "data": [
+      {
+        "attribute": "BOGO Shampoo - Free",
+        "value": 0.702
+      },
+      {
+        "attribute": "1/2 Off Conditioner",
+        "value": 0.66
+      },
+      {
+        "attribute": "30% Off Shampoo",
+        "value": 0.62
+      },
+      {
+        "attribute": "BOGO Shampoo - 50% Off",
+        "value": 0.5302
+      },
+      {
+        "attribute": "Energizing Citrus",
+        "value": 0.4371
+      },
+      {
+        "attribute": "Calming Chamomile",
+        "value": 0.4161
+      },
+      {
+        "attribute": "Relaxing Lavender",
+        "value": 0.4161
+      },
+      {
+        "attribute": "Free Travel Gift Set",
+        "value": 0.3826
+      },
+      {
+        "attribute": "$3 Off Hair Styling - Women",
+        "value": 0.3533
+      },
+      {
+        "attribute": "$3 Off Hair Styling - Men",
+        "value": 0.2349
+      },
+      {
+        "attribute": "$4 Off Intense Color",
+        "value": 0.1867
+      },
+      {
+        "attribute": "$5 Off Intense Color",
+        "value": 0.1733
+      }
+    ]
+  },
+  "figure_2b": {
+    "title": "Uniqueness",
+    "subTitle": "(Extremely/Very)",
+    "xAxisTitle": "",
+    "yAxisTitle": "",
+    "questionID": "",
+    "metadata": {
+      "confidenceInterval": "false",
+      "dataValue": "percent",
+      "baseSize": 599,
+      "average": "mean",
+      "chartType": "bar",
+      "orientation": "h",
+      "dataType": "1d",
+      "colors": [
+        "#00A3E6"
+      ],
+      "keyOrder": [
+        "BOGO Shampoo - Free",
+        "1/2 Off Conditioner",
+        "30% Off Shampoo",
+        "BOGO Shampoo - 50% Off",
+        "Energizing Citrus",
+        "Calming Chamomile",
+        "Relaxing Lavender",
+        "Free Travel Gift Set",
+        "$3 Off Hair Styling - Women",
+        "$3 Off Hair Styling - Men",
+        "$4 Off Intense Color",
+        "$5 Off Intense Color"
+      ]
+    },
+    "data": [
+      {
+        "attribute": "BOGO Shampoo - Free",
+        "value": 0.1987
+      },
+      {
+        "attribute": "1/2 Off Conditioner",
+        "value": 0.3467
+      },
+      {
+        "attribute": "30% Off Shampoo",
+        "value": 0.26
+      },
+      {
+        "attribute": "BOGO Shampoo - 50% Off",
+        "value": 0.1745
+      },
+      {
+        "attribute": "Energizing Citrus",
+        "value": 0.2848
+      },
+      {
+        "attribute": "Calming Chamomile",
+        "value": 0.2819
+      },
+      {
+        "attribute": "Relaxing Lavender",
+        "value": 0.2685
+      },
+      {
+        "attribute": "Free Travel Gift Set",
+        "value": 0.2282
+      },
+      {
+        "attribute": "$3 Off Hair Styling - Women",
+        "value": 0.1933
+      },
+      {
+        "attribute": "$3 Off Hair Styling - Men",
+        "value": 0.2685
+      },
+      {
+        "attribute": "$4 Off Intense Color",
+        "value": 0.24
+      },
+      {
+        "attribute": "$5 Off Intense Color",
+        "value": 0.2733
+      }
+    ]
+  },
+  "figure_text1": {
+    "title": "Value",
+    "subTitle": "(Extremely/Very)",
+    "xAxisTitle": "",
+    "yAxisTitle": "",
+    "questionID": "",
+    "metadata": {
+      "confidenceInterval": "false",
+      "dataValue": "percent",
+      "baseSize": 599,
+      "average": "mean",
+      "chartType": "bar",
+      "orientation": "h",
+      "dataType": "1d",
+      "colors": [
+        "#00A3E6"
+      ],
+      "keyOrder": [
+        "BOGO Shampoo - Free",
+        "1/2 Off Conditioner",
+        "30% Off Shampoo",
+        "BOGO Shampoo - 50% Off",
+        "Energizing Citrus",
+        "Calming Chamomile",
+        "Relaxing Lavender",
+        "Free Travel Gift Set",
+        "$3 Off Hair Styling - Women",
+        "$3 Off Hair Styling - Men",
+        "$4 Off Intense Color",
+        "$5 Off Intense Color"
+      ]
+    },
+    "data": [
+      {
+        "attribute": "BOGO Shampoo - Free",
+        "value": 0.7748
+      },
+      {
+        "attribute": "1/2 Off Conditioner",
+        "value": 0.74
+      },
+      {
+        "attribute": "30% Off Shampoo",
+        "value": 0.6867
+      },
+      {
+        "attribute": "BOGO Shampoo - 50% Off",
+        "value": 0.698
+      },
+      {
+        "attribute": "Energizing Citrus",
+        "value": 0.404
+      },
+      {
+        "attribute": "Calming Chamomile",
+        "value": 0.4497
+      },
+      {
+        "attribute": "Relaxing Lavender",
+        "value": 0.4765
+      },
+      {
+        "attribute": "Free Travel Gift Set",
+        "value": 0.6376
+      },
+      {
+        "attribute": "$3 Off Hair Styling - Women",
+        "value": 0.5067
+      },
+      {
+        "attribute": "$3 Off Hair Styling - Men",
+        "value": 0.3557
+      },
+      {
+        "attribute": "$4 Off Intense Color",
+        "value": 0.48
+      },
+      {
+        "attribute": "$5 Off Intense Color",
+        "value": 0.3733
+      }
+    ]
+  },
+  "figure_3a": [
+    {
+      "figure_3a_ 1": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "Calming Chamomile"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.4161
+                },
+                {
+                  "Unique": 0.2819
+                },
+                {
+                  "Value": 0.4497
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 2": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "Energizing Citrus"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.4371
+                },
+                {
+                  "Unique": 0.2848
+                },
+                {
+                  "Value": 0.404
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 3": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "$3 Off Hair Styling - Women"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.3533
+                },
+                {
+                  "Unique": 0.1933
+                },
+                {
+                  "Value": 0.5067
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 4": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "$3 Off Hair Styling - Men"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.2349
+                },
+                {
+                  "Unique": 0.2685
+                },
+                {
+                  "Value": 0.3557
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 5": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "BOGO Shampoo - 50% Off"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.5302
+                },
+                {
+                  "Unique": 0.1745
+                },
+                {
+                  "Value": 0.698
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 6": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "$5 Off Intense Color"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.1733
+                },
+                {
+                  "Unique": 0.2733
+                },
+                {
+                  "Value": 0.3733
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 7": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "1/2 Off Conditioner"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.66
+                },
+                {
+                  "Unique": 0.3467
+                },
+                {
+                  "Value": 0.74
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 8": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "Free Travel Gift Set"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.3826
+                },
+                {
+                  "Unique": 0.2282
+                },
+                {
+                  "Value": 0.6376
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 9": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "Relaxing Lavender"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.4161
+                },
+                {
+                  "Unique": 0.2685
+                },
+                {
+                  "Value": 0.4765
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 10": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "30% Off Shampoo"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.62
+                },
+                {
+                  "Unique": 0.26
+                },
+                {
+                  "Value": 0.6867
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 11": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "$4 Off Intense Color"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.1867
+                },
+                {
+                  "Unique": 0.24
+                },
+                {
+                  "Value": 0.48
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "figure_3a_ 12": {
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "table",
+          "orientation": "",
+          "dataType": "1d",
+          "colors": [],
+          "keyOrder": [],
+          "conceptName": "BOGO Shampoo - Free"
+        },
+        "tableData": [
+          {
+            "baseSize": 599,
+            "qtitle": "",
+            "qName": "",
+            "vgroup": "",
+            "type": "single",
+            "row": "r1",
+            "rowTitle": "Key Measures",
+            "isGrid": true,
+            "data": {
+              "percent100": [
+                {
+                  "Purchase Intent": 0.702
+                },
+                {
+                  "Unique": 0.1987
+                },
+                {
+                  "Value": 0.7748
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "figure_attributeTable": [
+    {
+      "baseSize": 599,
+      "qtitle": "",
+      "qName": "",
+      "vgroup": "",
+      "type": "single",
+      "row": "r1",
+      "rowTitle": "Fun",
+      "isGrid": true,
+      "data": {
+        "percent100": [
+          {
+            "Calming Chamomile": 0.4966
+          },
+          {
+            "Energizing Citrus": 0.6623
+          },
+          {
+            "$3 Off Hair Styling - Women": 0.5
+          },
+          {
+            "$3 Off Hair Styling - Men": 0.5302
+          },
+          {
+            "BOGO Shampoo - 50% Off": 0.5638
+          },
+          {
+            "$5 Off Intense Color": 0.6733
+          },
+          {
+            "1/2 Off Conditioner": 0.5533
+          },
+          {
+            "Free Travel Gift Set": 0.698
+          },
+          {
+            "Relaxing Lavender": 0.6644
+          },
+          {
+            "30% Off Shampoo": 0.5133
+          },
+          {
+            "$4 Off Intense Color": 0.6267
+          },
+          {
+            "BOGO Shampoo - Free": 0.5762
+          }
+        ]
+      }
+    },
+    {
+      "baseSize": 599,
+      "qtitle": "",
+      "qName": "",
+      "vgroup": "",
+      "type": "single",
+      "row": "r1",
+      "rowTitle": "Appealing",
+      "isGrid": true,
+      "data": {
+        "percent100": [
+          {
+            "Calming Chamomile": 0.7114
+          },
+          {
+            "Energizing Citrus": 0.7285
+          },
+          {
+            "$3 Off Hair Styling - Women": 0.7067
+          },
+          {
+            "$3 Off Hair Styling - Men": 0.6242
+          },
+          {
+            "BOGO Shampoo - 50% Off": 0.8322
+          },
+          {
+            "$5 Off Intense Color": 0.5133
+          },
+          {
+            "1/2 Off Conditioner": 0.82
+          },
+          {
+            "Free Travel Gift Set": 0.7718
+          },
+          {
+            "Relaxing Lavender": 0.7248
+          },
+          {
+            "30% Off Shampoo": 0.8133
+          },
+          {
+            "$4 Off Intense Color": 0.5333
+          },
+          {
+            "BOGO Shampoo - Free": 0.8675
+          }
+        ]
+      }
+    },
+    {
+      "baseSize": 599,
+      "qtitle": "",
+      "qName": "",
+      "vgroup": "",
+      "type": "single",
+      "row": "r1",
+      "rowTitle": "Enticing",
+      "isGrid": true,
+      "data": {
+        "percent100": [
+          {
+            "Calming Chamomile": 0.6174
+          },
+          {
+            "Energizing Citrus": 0.702
+          },
+          {
+            "$3 Off Hair Styling - Women": 0.6067
+          },
+          {
+            "$3 Off Hair Styling - Men": 0.5705
+          },
+          {
+            "BOGO Shampoo - 50% Off": 0.7718
+          },
+          {
+            "$5 Off Intense Color": 0.52
+          },
+          {
+            "1/2 Off Conditioner": 0.7933
+          },
+          {
+            "Free Travel Gift Set": 0.7383
+          },
+          {
+            "Relaxing Lavender": 0.651
+          },
+          {
+            "30% Off Shampoo": 0.7533
+          },
+          {
+            "$4 Off Intense Color": 0.5
+          },
+          {
+            "BOGO Shampoo - Free": 0.8079
+          }
+        ]
+      }
+    },
+    {
+      "baseSize": 599,
+      "qtitle": "",
+      "qName": "",
+      "vgroup": "",
+      "type": "single",
+      "row": "r1",
+      "rowTitle": "Interesting",
+      "isGrid": true,
+      "data": {
+        "percent100": [
+          {
+            "Calming Chamomile": 0.7517
+          },
+          {
+            "Energizing Citrus": 0.702
+          },
+          {
+            "$3 Off Hair Styling - Women": 0.68
+          },
+          {
+            "$3 Off Hair Styling - Men": 0.651
+          },
+          {
+            "BOGO Shampoo - 50% Off": 0.745
+          },
+          {
+            "$5 Off Intense Color": 0.6533
+          },
+          {
+            "1/2 Off Conditioner": 0.76
+          },
+          {
+            "Free Travel Gift Set": 0.7718
+          },
+          {
+            "Relaxing Lavender": 0.7047
+          },
+          {
+            "30% Off Shampoo": 0.7667
+          },
+          {
+            "$4 Off Intense Color": 0.6333
+          },
+          {
+            "BOGO Shampoo - Free": 0.7815
+          }
+        ]
+      }
+    },
+    {
+      "baseSize": 599,
+      "qtitle": "",
+      "qName": "",
+      "vgroup": "",
+      "type": "single",
+      "row": "r1",
+      "rowTitle": "Meets my needs",
+      "isGrid": true,
+      "data": {
+        "percent100": [
+          {
+            "Calming Chamomile": 0.557
+          },
+          {
+            "Energizing Citrus": 0.5894
+          },
+          {
+            "$3 Off Hair Styling - Women": 0.5067
+          },
+          {
+            "$3 Off Hair Styling - Men": 0.4832
+          },
+          {
+            "BOGO Shampoo - 50% Off": 0.7383
+          },
+          {
+            "$5 Off Intense Color": 0.3533
+          },
+          {
+            "1/2 Off Conditioner": 0.7733
+          },
+          {
+            "Free Travel Gift Set": 0.5638
+          },
+          {
+            "Relaxing Lavender": 0.6107
+          },
+          {
+            "30% Off Shampoo": 0.7867
+          },
+          {
+            "$4 Off Intense Color": 0.3467
+          },
+          {
+            "BOGO Shampoo - Free": 0.8146
+          }
+        ]
+      }
+    }
+  ],
+  "figure_3b": {
+    "metadata": {
+      "confidenceInterval": "false",
+      "dataValue": "",
+      "baseSize": 599,
+      "average": "mean",
+      "chartType": "table",
+      "orientation": "",
+      "dataType": "1d",
+      "colors": [],
+      "keyOrder": []
+    },
+    "tableData": [
+      {
+        "baseSize": 599,
+        "qtitle": "",
+        "qName": "",
+        "vgroup": "",
+        "type": "single",
+        "row": "r1",
+        "rowTitle": "Fun",
+        "isGrid": true,
+        "data": {
+          "percent100": [
+            {
+              "Calming Chamomile": 0.4966
+            },
+            {
+              "Energizing Citrus": 0.6623
+            },
+            {
+              "$3 Off Hair Styling - Women": 0.5
+            },
+            {
+              "$3 Off Hair Styling - Men": 0.5302
+            },
+            {
+              "BOGO Shampoo - 50% Off": 0.5638
+            },
+            {
+              "$5 Off Intense Color": 0.6733
+            },
+            {
+              "1/2 Off Conditioner": 0.5533
+            },
+            {
+              "Free Travel Gift Set": 0.698
+            },
+            {
+              "Relaxing Lavender": 0.6644
+            },
+            {
+              "30% Off Shampoo": 0.5133
+            },
+            {
+              "$4 Off Intense Color": 0.6267
+            },
+            {
+              "BOGO Shampoo - Free": 0.5762
+            }
+          ]
+        }
+      },
+      {
+        "baseSize": 599,
+        "qtitle": "",
+        "qName": "",
+        "vgroup": "",
+        "type": "single",
+        "row": "r1",
+        "rowTitle": "Appealing",
+        "isGrid": true,
+        "data": {
+          "percent100": [
+            {
+              "Calming Chamomile": 0.7114
+            },
+            {
+              "Energizing Citrus": 0.7285
+            },
+            {
+              "$3 Off Hair Styling - Women": 0.7067
+            },
+            {
+              "$3 Off Hair Styling - Men": 0.6242
+            },
+            {
+              "BOGO Shampoo - 50% Off": 0.8322
+            },
+            {
+              "$5 Off Intense Color": 0.5133
+            },
+            {
+              "1/2 Off Conditioner": 0.82
+            },
+            {
+              "Free Travel Gift Set": 0.7718
+            },
+            {
+              "Relaxing Lavender": 0.7248
+            },
+            {
+              "30% Off Shampoo": 0.8133
+            },
+            {
+              "$4 Off Intense Color": 0.5333
+            },
+            {
+              "BOGO Shampoo - Free": 0.8675
+            }
+          ]
+        }
+      },
+      {
+        "baseSize": 599,
+        "qtitle": "",
+        "qName": "",
+        "vgroup": "",
+        "type": "single",
+        "row": "r1",
+        "rowTitle": "Enticing",
+        "isGrid": true,
+        "data": {
+          "percent100": [
+            {
+              "Calming Chamomile": 0.6174
+            },
+            {
+              "Energizing Citrus": 0.702
+            },
+            {
+              "$3 Off Hair Styling - Women": 0.6067
+            },
+            {
+              "$3 Off Hair Styling - Men": 0.5705
+            },
+            {
+              "BOGO Shampoo - 50% Off": 0.7718
+            },
+            {
+              "$5 Off Intense Color": 0.52
+            },
+            {
+              "1/2 Off Conditioner": 0.7933
+            },
+            {
+              "Free Travel Gift Set": 0.7383
+            },
+            {
+              "Relaxing Lavender": 0.651
+            },
+            {
+              "30% Off Shampoo": 0.7533
+            },
+            {
+              "$4 Off Intense Color": 0.5
+            },
+            {
+              "BOGO Shampoo - Free": 0.8079
+            }
+          ]
+        }
+      },
+      {
+        "baseSize": 599,
+        "qtitle": "",
+        "qName": "",
+        "vgroup": "",
+        "type": "single",
+        "row": "r1",
+        "rowTitle": "Interesting",
+        "isGrid": true,
+        "data": {
+          "percent100": [
+            {
+              "Calming Chamomile": 0.7517
+            },
+            {
+              "Energizing Citrus": 0.702
+            },
+            {
+              "$3 Off Hair Styling - Women": 0.68
+            },
+            {
+              "$3 Off Hair Styling - Men": 0.651
+            },
+            {
+              "BOGO Shampoo - 50% Off": 0.745
+            },
+            {
+              "$5 Off Intense Color": 0.6533
+            },
+            {
+              "1/2 Off Conditioner": 0.76
+            },
+            {
+              "Free Travel Gift Set": 0.7718
+            },
+            {
+              "Relaxing Lavender": 0.7047
+            },
+            {
+              "30% Off Shampoo": 0.7667
+            },
+            {
+              "$4 Off Intense Color": 0.6333
+            },
+            {
+              "BOGO Shampoo - Free": 0.7815
+            }
+          ]
+        }
+      },
+      {
+        "baseSize": 599,
+        "qtitle": "",
+        "qName": "",
+        "vgroup": "",
+        "type": "single",
+        "row": "r1",
+        "rowTitle": "Meets my needs",
+        "isGrid": true,
+        "data": {
+          "percent100": [
+            {
+              "Calming Chamomile": 0.557
+            },
+            {
+              "Energizing Citrus": 0.5894
+            },
+            {
+              "$3 Off Hair Styling - Women": 0.5067
+            },
+            {
+              "$3 Off Hair Styling - Men": 0.4832
+            },
+            {
+              "BOGO Shampoo - 50% Off": 0.7383
+            },
+            {
+              "$5 Off Intense Color": 0.3533
+            },
+            {
+              "1/2 Off Conditioner": 0.7733
+            },
+            {
+              "Free Travel Gift Set": 0.5638
+            },
+            {
+              "Relaxing Lavender": 0.6107
+            },
+            {
+              "30% Off Shampoo": 0.7867
+            },
+            {
+              "$4 Off Intense Color": 0.3467
+            },
+            {
+              "BOGO Shampoo - Free": 0.8146
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "figure_4b": [
+    {
+      "figure_4b_ 1": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "Calming Chamomile"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.4966
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.7114
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.6174
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.7517
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.557
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 2": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "Energizing Citrus"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.6623
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.7285
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.702
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.702
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.5894
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 3": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "$3 Off Hair Styling - Women"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.5
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.7067
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.6067
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.68
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.5067
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 4": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "$3 Off Hair Styling - Men"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.5302
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.6242
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.5705
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.651
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.4832
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 5": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "BOGO Shampoo - 50% Off"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.5638
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.8322
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.7718
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.745
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.7383
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 6": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "$5 Off Intense Color"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.6733
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.5133
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.52
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.6533
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.3533
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 7": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "1/2 Off Conditioner"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.5533
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.82
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.7933
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.76
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.7733
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 8": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "Free Travel Gift Set"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.698
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.7718
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.7383
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.7718
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.5638
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 9": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "Relaxing Lavender"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.6644
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.7248
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.651
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.7047
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.6107
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 10": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "30% Off Shampoo"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.5133
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.8133
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.7533
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.7667
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.7867
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 11": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "$4 Off Intense Color"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.6267
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.5333
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.5
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.6333
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.3467
+          }
+        ]
+      }
+    },
+    {
+      "figure_4b_ 12": {
+        "title": "Breakthrough Measures",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "percent",
+          "baseSize": 599,
+          "average": "mean",
+          "chartType": "bar",
+          "orientation": "h",
+          "dataType": "1d",
+          "colors": [
+            "#00A3E6"
+          ],
+          "keyOrder": ["Fun", "Appealing", "Enticing", "Interesting", "Meets my needs"],
+          "conceptName": "BOGO Shampoo - Free"
+        },
+        "data": [
+          {
+            "attribute": "Fun",
+            "value": 0.5762
+          },
+          {
+            "attribute": "Appealing",
+            "value": 0.8675
+          },
+          {
+            "attribute": "Enticing",
+            "value": 0.8079
+          },
+          {
+            "attribute": "Interesting",
+            "value": 0.7815
+          },
+          {
+            "attribute": "Meets my needs",
+            "value": 0.8146
+          }
+        ]
+      }
+    }
+  ],
+  "figure_4d": [
+    {
+      "figure_4d_ 1": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "Calming Chamomile",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 18,
+            "attribute": "Enjoy",
+            "color": "0,255,0",
+            "opacity": 0.1584
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 14,
+            "attribute": "products",
+            "color": "0,255,0",
+            "opacity": 0.1188
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 4,
+            "attribute": "including",
+            "color": "0,255,0",
+            "opacity": 0.0198
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 2,
+            "attribute": "an",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 21,
+            "attribute": "evening",
+            "color": "0,255,0",
+            "opacity": 0.1881
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 34,
+            "attribute": "toner,",
+            "color": "0,255,0",
+            "opacity": 0.3168
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 22,
+            "attribute": "night-time",
+            "color": "0,255,0",
+            "opacity": 0.198
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 39,
+            "attribute": "eye",
+            "color": "0,255,0",
+            "opacity": 0.3663
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 64,
+            "attribute": "soother",
+            "color": "0,255,0",
+            "opacity": 0.6139
+          },
+          {
+            "WordNum": 18,
+            "WordCounts": 3,
+            "attribute": "and",
+            "color": "0,255,0",
+            "opacity": 0.0099
+          },
+          {
+            "WordNum": 19,
+            "WordCounts": 65,
+            "attribute": "relaxing",
+            "color": "0,255,0",
+            "opacity": 0.6238
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 5,
+            "attribute": "the",
+            "color": "0,255,0",
+            "opacity": 0.0297
+          },
+          {
+            "WordNum": 20,
+            "WordCounts": 42,
+            "attribute": "overnight",
+            "color": "0,255,0",
+            "opacity": 0.396
+          },
+          {
+            "WordNum": 21,
+            "WordCounts": 51,
+            "attribute": "moisturizer.",
+            "color": "0,255,0",
+            "opacity": 0.4851
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 103,
+            "attribute": "calming",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 60,
+            "attribute": "scent",
+            "color": "0,255,0",
+            "opacity": 0.5743
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 7,
+            "attribute": "of",
+            "color": "0,255,0",
+            "opacity": 0.0495
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 8,
+            "attribute": "our",
+            "color": "0,255,0",
+            "opacity": 0.0594
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 17,
+            "attribute": "new",
+            "color": "0,255,0",
+            "opacity": 0.1485
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 75,
+            "attribute": "chamomile-infused",
+            "color": "0,255,0",
+            "opacity": 0.7228
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 28,
+            "attribute": "skincare",
+            "color": "0,255,0",
+            "opacity": 0.2574
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 2": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "Energizing Citrus",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 18,
+            "attribute": "Wake",
+            "color": "0,255,0",
+            "opacity": 0.1765
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 68,
+            "attribute": "citrus",
+            "color": "0,255,0",
+            "opacity": 0.7647
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 29,
+            "attribute": "shower",
+            "color": "0,255,0",
+            "opacity": 0.3059
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 24,
+            "attribute": "products",
+            "color": "0,255,0",
+            "opacity": 0.2471
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 4,
+            "attribute": "including",
+            "color": "0,255,0",
+            "opacity": 0.0118
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 4,
+            "attribute": "an",
+            "color": "0,255,0",
+            "opacity": 0.0118
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 72,
+            "attribute": "invigorating",
+            "color": "0,255,0",
+            "opacity": 0.8118
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 31,
+            "attribute": "body",
+            "color": "0,255,0",
+            "opacity": 0.3294
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 34,
+            "attribute": "wash,",
+            "color": "0,255,0",
+            "opacity": 0.3647
+          },
+          {
+            "WordNum": 18,
+            "WordCounts": 46,
+            "attribute": "delicious",
+            "color": "0,255,0",
+            "opacity": 0.5059
+          },
+          {
+            "WordNum": 19,
+            "WordCounts": 54,
+            "attribute": "pineapple",
+            "color": "0,255,0",
+            "opacity": 0.6
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 16,
+            "attribute": "up",
+            "color": "0,255,0",
+            "opacity": 0.1529
+          },
+          {
+            "WordNum": 20,
+            "WordCounts": 34,
+            "attribute": "facial",
+            "color": "0,255,0",
+            "opacity": 0.3647
+          },
+          {
+            "WordNum": 21,
+            "WordCounts": 29,
+            "attribute": "scrub",
+            "color": "0,255,0",
+            "opacity": 0.3059
+          },
+          {
+            "WordNum": 22,
+            "WordCounts": 5,
+            "attribute": "and",
+            "color": "0,255,0",
+            "opacity": 0.0235
+          },
+          {
+            "WordNum": 23,
+            "WordCounts": 53,
+            "attribute": "tingling",
+            "color": "0,255,0",
+            "opacity": 0.5882
+          },
+          {
+            "WordNum": 24,
+            "WordCounts": 57,
+            "attribute": "orange-mint",
+            "color": "0,255,0",
+            "opacity": 0.6353
+          },
+          {
+            "WordNum": 25,
+            "WordCounts": 32,
+            "attribute": "shampoo.",
+            "color": "0,255,0",
+            "opacity": 0.3412
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 3,
+            "attribute": "to",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 5,
+            "attribute": "the",
+            "color": "0,255,0",
+            "opacity": 0.0235
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 88,
+            "attribute": "stimulating",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 43,
+            "attribute": "scent",
+            "color": "0,255,0",
+            "opacity": 0.4706
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 11,
+            "attribute": "of",
+            "color": "0,255,0",
+            "opacity": 0.0941
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 8,
+            "attribute": "our",
+            "color": "0,255,0",
+            "opacity": 0.0588
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 21,
+            "attribute": "new",
+            "color": "0,255,0",
+            "opacity": 0.2118
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 3": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "$3 Off Hair Styling - Women",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 9,
+            "attribute": "Buy",
+            "color": "0,255,0",
+            "opacity": 0.0182
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 116,
+            "attribute": "off",
+            "color": "0,255,0",
+            "opacity": 0.9909
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 98,
+            "attribute": "automatically.",
+            "color": "0,255,0",
+            "opacity": 0.8273
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 19,
+            "attribute": "any",
+            "color": "0,255,0",
+            "opacity": 0.1091
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 16,
+            "attribute": "women's",
+            "color": "0,255,0",
+            "opacity": 0.0818
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 25,
+            "attribute": "hair",
+            "color": "0,255,0",
+            "opacity": 0.1636
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 28,
+            "attribute": "styling",
+            "color": "0,255,0",
+            "opacity": 0.1909
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 25,
+            "attribute": "product",
+            "color": "0,255,0",
+            "opacity": 0.1636
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 7,
+            "attribute": "and",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 50,
+            "attribute": "receive",
+            "color": "0,255,0",
+            "opacity": 0.3909
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 117,
+            "attribute": "$3",
+            "color": "0,255,0",
+            "opacity": 1
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 4": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "$3 Off Hair Styling - Men",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 13,
+            "attribute": "Buy",
+            "color": "0,255,0",
+            "opacity": 0.0571
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 98,
+            "attribute": "off",
+            "color": "0,255,0",
+            "opacity": 0.8667
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 67,
+            "attribute": "automatically.",
+            "color": "0,255,0",
+            "opacity": 0.5714
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 16,
+            "attribute": "any",
+            "color": "0,255,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 22,
+            "attribute": "women's",
+            "color": "0,255,0",
+            "opacity": 0.1429
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 21,
+            "attribute": "hair",
+            "color": "0,255,0",
+            "opacity": 0.1333
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 25,
+            "attribute": "styling",
+            "color": "0,255,0",
+            "opacity": 0.1714
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 19,
+            "attribute": "product",
+            "color": "0,255,0",
+            "opacity": 0.1143
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 7,
+            "attribute": "and",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 39,
+            "attribute": "receive",
+            "color": "0,255,0",
+            "opacity": 0.3048
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 112,
+            "attribute": "$3",
+            "color": "0,255,0",
+            "opacity": 1
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 5": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "BOGO Shampoo - 50% Off",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 33,
+            "attribute": "Buy",
+            "color": "0,255,0",
+            "opacity": 0.2069
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 62,
+            "attribute": "second",
+            "color": "0,255,0",
+            "opacity": 0.4569
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 52,
+            "attribute": "shampoo",
+            "color": "0,255,0",
+            "opacity": 0.3707
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 125,
+            "attribute": "50%",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 91,
+            "attribute": "off",
+            "color": "0,255,0",
+            "opacity": 0.7069
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 14,
+            "attribute": "(of",
+            "color": "0,255,0",
+            "opacity": 0.0431
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 21,
+            "attribute": "equal",
+            "color": "0,255,0",
+            "opacity": 0.1034
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 9,
+            "attribute": "or",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 17,
+            "attribute": "lesser",
+            "color": "0,255,0",
+            "opacity": 0.069
+          },
+          {
+            "WordNum": 18,
+            "WordCounts": 17,
+            "attribute": "value)!!",
+            "color": "0,255,0",
+            "opacity": 0.069
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 37,
+            "attribute": "one",
+            "color": "0,255,0",
+            "opacity": 0.2414
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 29,
+            "attribute": "shampoo,",
+            "color": "0,255,0",
+            "opacity": 0.1724
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 42,
+            "attribute": "any",
+            "color": "0,255,0",
+            "opacity": 0.2845
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 44,
+            "attribute": "brand",
+            "color": "0,255,0",
+            "opacity": 0.3017
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 24,
+            "attribute": "or",
+            "color": "0,255,0",
+            "opacity": 0.1293
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 35,
+            "attribute": "size,",
+            "color": "0,255,0",
+            "opacity": 0.2241
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 34,
+            "attribute": "get",
+            "color": "0,255,0",
+            "opacity": 0.2155
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 22,
+            "attribute": "a",
+            "color": "0,255,0",
+            "opacity": 0.1121
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 6": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "$5 Off Intense Color",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 49,
+            "attribute": "Passionate",
+            "color": "0,255,0",
+            "opacity": 0.403
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 34,
+            "attribute": "any",
+            "color": "0,255,0",
+            "opacity": 0.1791
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 47,
+            "attribute": "Intense",
+            "color": "0,255,0",
+            "opacity": 0.3731
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 28,
+            "attribute": "hair",
+            "color": "0,255,0",
+            "opacity": 0.0896
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 34,
+            "attribute": "color",
+            "color": "0,255,0",
+            "opacity": 0.1791
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 22,
+            "attribute": "this",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 22,
+            "attribute": "week!",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 30,
+            "attribute": "Pink,",
+            "color": "0,255,0",
+            "opacity": 0.1194
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 49,
+            "attribute": "Vivacious",
+            "color": "0,255,0",
+            "opacity": 0.403
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 28,
+            "attribute": "Violet,",
+            "color": "0,255,0",
+            "opacity": 0.0896
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 39,
+            "attribute": "Ruby",
+            "color": "0,255,0",
+            "opacity": 0.2537
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 26,
+            "attribute": "Red",
+            "color": "0,255,0",
+            "opacity": 0.0597
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 37,
+            "attribute": "get",
+            "color": "0,255,0",
+            "opacity": 0.2239
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 89,
+            "attribute": "$5",
+            "color": "0,255,0",
+            "opacity": 1
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 7": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "1/2 Off Conditioner",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 62,
+            "attribute": "All",
+            "color": "0,255,0",
+            "opacity": 0.4771
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 22,
+            "attribute": "time",
+            "color": "0,255,0",
+            "opacity": 0.1101
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 18,
+            "attribute": "only.",
+            "color": "0,255,0",
+            "opacity": 0.0734
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 57,
+            "attribute": "conditioners,",
+            "color": "0,255,0",
+            "opacity": 0.4312
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 63,
+            "attribute": "all",
+            "color": "0,255,0",
+            "opacity": 0.4862
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 70,
+            "attribute": "brands,",
+            "color": "0,255,0",
+            "opacity": 0.5505
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 119,
+            "attribute": "half",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 115,
+            "attribute": "off",
+            "color": "0,255,0",
+            "opacity": 0.9633
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 17,
+            "attribute": "for",
+            "color": "0,255,0",
+            "opacity": 0.0642
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 10,
+            "attribute": "a",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 23,
+            "attribute": "limited",
+            "color": "0,255,0",
+            "opacity": 0.1193
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 8": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "Free Travel Gift Set",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 16,
+            "attribute": "Purchase",
+            "color": "0,255,0",
+            "opacity": 0.1081
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 115,
+            "attribute": "free",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 84,
+            "attribute": "deluxe",
+            "color": "0,255,0",
+            "opacity": 0.7207
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 63,
+            "attribute": "travel",
+            "color": "0,255,0",
+            "opacity": 0.5315
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 73,
+            "attribute": "gift",
+            "color": "0,255,0",
+            "opacity": 0.6216
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 55,
+            "attribute": "set",
+            "color": "0,255,0",
+            "opacity": 0.4595
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 24,
+            "attribute": "(a",
+            "color": "0,255,0",
+            "opacity": 0.1802
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 67,
+            "attribute": "$35",
+            "color": "0,255,0",
+            "opacity": 0.5676
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 59,
+            "attribute": "value).",
+            "color": "0,255,0",
+            "opacity": 0.4955
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 32,
+            "attribute": "$25+",
+            "color": "0,255,0",
+            "opacity": 0.2523
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 4,
+            "attribute": "of",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 8,
+            "attribute": "any",
+            "color": "0,255,0",
+            "opacity": 0.036
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 21,
+            "attribute": "qualifying",
+            "color": "0,255,0",
+            "opacity": 0.1532
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 15,
+            "attribute": "products",
+            "color": "0,255,0",
+            "opacity": 0.0991
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 7,
+            "attribute": "and",
+            "color": "0,255,0",
+            "opacity": 0.027
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 27,
+            "attribute": "receive",
+            "color": "0,255,0",
+            "opacity": 0.2072
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 13,
+            "attribute": "a",
+            "color": "0,255,0",
+            "opacity": 0.0811
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 9": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "Relaxing Lavender",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 11,
+            "attribute": "Your",
+            "color": "0,255,0",
+            "opacity": 0.1
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 10,
+            "attribute": "of",
+            "color": "0,255,0",
+            "opacity": 0.0875
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 9,
+            "attribute": "of",
+            "color": "0,255,0",
+            "opacity": 0.075
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 9,
+            "attribute": "our",
+            "color": "0,255,0",
+            "opacity": 0.075
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 64,
+            "attribute": "Lavender",
+            "color": "0,255,0",
+            "opacity": 0.7625
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 59,
+            "attribute": "Indulgence",
+            "color": "0,255,0",
+            "opacity": 0.7
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 26,
+            "attribute": "bath",
+            "color": "0,255,0",
+            "opacity": 0.2875
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 28,
+            "attribute": "salt.",
+            "color": "0,255,0",
+            "opacity": 0.3125
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 55,
+            "attribute": "Pamper",
+            "color": "0,255,0",
+            "opacity": 0.65
+          },
+          {
+            "WordNum": 18,
+            "WordCounts": 25,
+            "attribute": "yourself",
+            "color": "0,255,0",
+            "opacity": 0.275
+          },
+          {
+            "WordNum": 19,
+            "WordCounts": 7,
+            "attribute": "with",
+            "color": "0,255,0",
+            "opacity": 0.05
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 60,
+            "attribute": "perfect",
+            "color": "0,255,0",
+            "opacity": 0.7125
+          },
+          {
+            "WordNum": 20,
+            "WordCounts": 3,
+            "attribute": "our",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 21,
+            "WordCounts": 43,
+            "attribute": "French-milled",
+            "color": "0,255,0",
+            "opacity": 0.5
+          },
+          {
+            "WordNum": 22,
+            "WordCounts": 44,
+            "attribute": "lavender",
+            "color": "0,255,0",
+            "opacity": 0.5125
+          },
+          {
+            "WordNum": 23,
+            "WordCounts": 33,
+            "attribute": "soap",
+            "color": "0,255,0",
+            "opacity": 0.375
+          },
+          {
+            "WordNum": 24,
+            "WordCounts": 24,
+            "attribute": "minis",
+            "color": "0,255,0",
+            "opacity": 0.2625
+          },
+          {
+            "WordNum": 25,
+            "WordCounts": 9,
+            "attribute": "while",
+            "color": "0,255,0",
+            "opacity": 0.075
+          },
+          {
+            "WordNum": 26,
+            "WordCounts": 54,
+            "attribute": "moisturizing",
+            "color": "0,255,0",
+            "opacity": 0.6375
+          },
+          {
+            "WordNum": 27,
+            "WordCounts": 17,
+            "attribute": "your",
+            "color": "0,255,0",
+            "opacity": 0.175
+          },
+          {
+            "WordNum": 28,
+            "WordCounts": 29,
+            "attribute": "face",
+            "color": "0,255,0",
+            "opacity": 0.325
+          },
+          {
+            "WordNum": 29,
+            "WordCounts": 8,
+            "attribute": "with",
+            "color": "0,255,0",
+            "opacity": 0.0625
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 54,
+            "attribute": "weekend",
+            "color": "0,255,0",
+            "opacity": 0.6375
+          },
+          {
+            "WordNum": 30,
+            "WordCounts": 6,
+            "attribute": "a",
+            "color": "0,255,0",
+            "opacity": 0.0375
+          },
+          {
+            "WordNum": 31,
+            "WordCounts": 19,
+            "attribute": "new",
+            "color": "0,255,0",
+            "opacity": 0.2
+          },
+          {
+            "WordNum": 32,
+            "WordCounts": 33,
+            "attribute": "lavender",
+            "color": "0,255,0",
+            "opacity": 0.375
+          },
+          {
+            "WordNum": 33,
+            "WordCounts": 46,
+            "attribute": "masque.",
+            "color": "0,255,0",
+            "opacity": 0.5375
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 11,
+            "attribute": "is",
+            "color": "0,255,0",
+            "opacity": 0.1
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 18,
+            "attribute": "calling!",
+            "color": "0,255,0",
+            "opacity": 0.1875
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 83,
+            "attribute": "Relax",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 15,
+            "attribute": "in",
+            "color": "0,255,0",
+            "opacity": 0.15
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 14,
+            "attribute": "a",
+            "color": "0,255,0",
+            "opacity": 0.1375
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 35,
+            "attribute": "bath",
+            "color": "0,255,0",
+            "opacity": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 10": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "30% Off Shampoo",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 128,
+            "attribute": "30%",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 15,
+            "attribute": "time",
+            "color": "0,255,0",
+            "opacity": 0.0504
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 14,
+            "attribute": "only.",
+            "color": "0,255,0",
+            "opacity": 0.042
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 96,
+            "attribute": "off",
+            "color": "0,255,0",
+            "opacity": 0.7311
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 73,
+            "attribute": "all",
+            "color": "0,255,0",
+            "opacity": 0.5378
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 70,
+            "attribute": "shampoos,",
+            "color": "0,255,0",
+            "opacity": 0.5126
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 71,
+            "attribute": "all",
+            "color": "0,255,0",
+            "opacity": 0.521
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 67,
+            "attribute": "brands,",
+            "color": "0,255,0",
+            "opacity": 0.4874
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 9,
+            "attribute": "for",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 11,
+            "attribute": "a",
+            "color": "0,255,0",
+            "opacity": 0.0168
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 17,
+            "attribute": "limited",
+            "color": "0,255,0",
+            "opacity": 0.0672
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 11": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "$4 Off Intense Color",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 32,
+            "attribute": "Passionate",
+            "color": "0,255,0",
+            "opacity": 0.2718
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 33,
+            "attribute": "Intense",
+            "color": "0,255,0",
+            "opacity": 0.2816
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 22,
+            "attribute": "hair",
+            "color": "0,255,0",
+            "opacity": 0.1748
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 22,
+            "attribute": "color",
+            "color": "0,255,0",
+            "opacity": 0.1748
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 20,
+            "attribute": "for",
+            "color": "0,255,0",
+            "opacity": 0.1553
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 107,
+            "attribute": "$4",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 102,
+            "attribute": "off",
+            "color": "0,255,0",
+            "opacity": 0.9515
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 31,
+            "attribute": "this",
+            "color": "0,255,0",
+            "opacity": 0.2621
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 35,
+            "attribute": "week!",
+            "color": "0,255,0",
+            "opacity": 0.301
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 20,
+            "attribute": "Pink,",
+            "color": "0,255,0",
+            "opacity": 0.1553
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 44,
+            "attribute": "Vivacious",
+            "color": "0,255,0",
+            "opacity": 0.3883
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 27,
+            "attribute": "Violet,",
+            "color": "0,255,0",
+            "opacity": 0.2233
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 27,
+            "attribute": "Ruby",
+            "color": "0,255,0",
+            "opacity": 0.2233
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 22,
+            "attribute": "Red",
+            "color": "0,255,0",
+            "opacity": 0.1748
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 4,
+            "attribute": "-",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 13,
+            "attribute": "get",
+            "color": "0,255,0",
+            "opacity": 0.0874
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 20,
+            "attribute": "any",
+            "color": "0,255,0",
+            "opacity": 0.1553
+          }
+        ]
+      }
+    },
+    {
+      "figure_4d_ 12": {
+        "title": "Likes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "BOGO Shampoo - Free",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 35,
+            "attribute": "Buy",
+            "color": "0,255,0",
+            "opacity": 0.2154
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 68,
+            "attribute": "second",
+            "color": "0,255,0",
+            "opacity": 0.4692
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 57,
+            "attribute": "shampoo",
+            "color": "0,255,0",
+            "opacity": 0.3846
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 137,
+            "attribute": "FREE",
+            "color": "0,255,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 7,
+            "attribute": "(of",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 16,
+            "attribute": "equal",
+            "color": "0,255,0",
+            "opacity": 0.0692
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 7,
+            "attribute": "or",
+            "color": "0,255,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 12,
+            "attribute": "lesser",
+            "color": "0,255,0",
+            "opacity": 0.0385
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 13,
+            "attribute": "value)!!",
+            "color": "0,255,0",
+            "opacity": 0.0462
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 37,
+            "attribute": "one",
+            "color": "0,255,0",
+            "opacity": 0.2308
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 31,
+            "attribute": "shampoo,",
+            "color": "0,255,0",
+            "opacity": 0.1846
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 44,
+            "attribute": "any",
+            "color": "0,255,0",
+            "opacity": 0.2846
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 44,
+            "attribute": "brand",
+            "color": "0,255,0",
+            "opacity": 0.2846
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 20,
+            "attribute": "or",
+            "color": "0,255,0",
+            "opacity": 0.1
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 35,
+            "attribute": "size,",
+            "color": "0,255,0",
+            "opacity": 0.2154
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 37,
+            "attribute": "get",
+            "color": "0,255,0",
+            "opacity": 0.2308
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 24,
+            "attribute": "a",
+            "color": "0,255,0",
+            "opacity": 0.1308
+          }
+        ]
+      }
+    }
+  ],
+  "figure_4e": [
+    {
+      "figure_4e_ 1": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "Calming Chamomile",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 10,
+            "attribute": "Enjoy",
+            "color": "255,0,0",
+            "opacity": 0.2368
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 17,
+            "attribute": "products",
+            "color": "255,0,0",
+            "opacity": 0.4211
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 6,
+            "attribute": "including",
+            "color": "255,0,0",
+            "opacity": 0.1316
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 6,
+            "attribute": "an",
+            "color": "255,0,0",
+            "opacity": 0.1316
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 37,
+            "attribute": "evening",
+            "color": "255,0,0",
+            "opacity": 0.9474
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 36,
+            "attribute": "toner,",
+            "color": "255,0,0",
+            "opacity": 0.9211
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 22,
+            "attribute": "night-time",
+            "color": "255,0,0",
+            "opacity": 0.5526
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 15,
+            "attribute": "eye",
+            "color": "255,0,0",
+            "opacity": 0.3684
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 16,
+            "attribute": "soother",
+            "color": "255,0,0",
+            "opacity": 0.3947
+          },
+          {
+            "WordNum": 18,
+            "WordCounts": 9,
+            "attribute": "and",
+            "color": "255,0,0",
+            "opacity": 0.2105
+          },
+          {
+            "WordNum": 19,
+            "WordCounts": 13,
+            "attribute": "relaxing",
+            "color": "255,0,0",
+            "opacity": 0.3158
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 4,
+            "attribute": "the",
+            "color": "255,0,0",
+            "opacity": 0.0789
+          },
+          {
+            "WordNum": 20,
+            "WordCounts": 18,
+            "attribute": "overnight",
+            "color": "255,0,0",
+            "opacity": 0.4474
+          },
+          {
+            "WordNum": 21,
+            "WordCounts": 16,
+            "attribute": "moisturizer.",
+            "color": "255,0,0",
+            "opacity": 0.3947
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 6,
+            "attribute": "calming",
+            "color": "255,0,0",
+            "opacity": 0.1316
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 8,
+            "attribute": "scent",
+            "color": "255,0,0",
+            "opacity": 0.1842
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 4,
+            "attribute": "of",
+            "color": "255,0,0",
+            "opacity": 0.0789
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 1,
+            "attribute": "our",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 9,
+            "attribute": "new",
+            "color": "255,0,0",
+            "opacity": 0.2105
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 39,
+            "attribute": "chamomile-infused",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 18,
+            "attribute": "skincare",
+            "color": "255,0,0",
+            "opacity": 0.4474
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 2": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "Energizing Citrus",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 29,
+            "attribute": "Wake",
+            "color": "255,0,0",
+            "opacity": 0.8
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 12,
+            "attribute": "citrus",
+            "color": "255,0,0",
+            "opacity": 0.3143
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 12,
+            "attribute": "shower",
+            "color": "255,0,0",
+            "opacity": 0.3143
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 11,
+            "attribute": "products",
+            "color": "255,0,0",
+            "opacity": 0.2857
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 4,
+            "attribute": "including",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 1,
+            "attribute": "an",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 11,
+            "attribute": "invigorating",
+            "color": "255,0,0",
+            "opacity": 0.2857
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 7,
+            "attribute": "body",
+            "color": "255,0,0",
+            "opacity": 0.1714
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 8,
+            "attribute": "wash,",
+            "color": "255,0,0",
+            "opacity": 0.2
+          },
+          {
+            "WordNum": 18,
+            "WordCounts": 24,
+            "attribute": "delicious",
+            "color": "255,0,0",
+            "opacity": 0.6571
+          },
+          {
+            "WordNum": 19,
+            "WordCounts": 30,
+            "attribute": "pineapple",
+            "color": "255,0,0",
+            "opacity": 0.8286
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 21,
+            "attribute": "up",
+            "color": "255,0,0",
+            "opacity": 0.5714
+          },
+          {
+            "WordNum": 20,
+            "WordCounts": 18,
+            "attribute": "facial",
+            "color": "255,0,0",
+            "opacity": 0.4857
+          },
+          {
+            "WordNum": 21,
+            "WordCounts": 18,
+            "attribute": "scrub",
+            "color": "255,0,0",
+            "opacity": 0.4857
+          },
+          {
+            "WordNum": 22,
+            "WordCounts": 4,
+            "attribute": "and",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 23,
+            "WordCounts": 22,
+            "attribute": "tingling",
+            "color": "255,0,0",
+            "opacity": 0.6
+          },
+          {
+            "WordNum": 24,
+            "WordCounts": 36,
+            "attribute": "orange-mint",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 25,
+            "WordCounts": 11,
+            "attribute": "shampoo.",
+            "color": "255,0,0",
+            "opacity": 0.2857
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 4,
+            "attribute": "to",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 5,
+            "attribute": "the",
+            "color": "255,0,0",
+            "opacity": 0.1143
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 13,
+            "attribute": "stimulating",
+            "color": "255,0,0",
+            "opacity": 0.3429
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 13,
+            "attribute": "scent",
+            "color": "255,0,0",
+            "opacity": 0.3429
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 1,
+            "attribute": "of",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 2,
+            "attribute": "our",
+            "color": "255,0,0",
+            "opacity": 0.0286
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 4,
+            "attribute": "new",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 3": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "$3 Off Hair Styling - Women",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 46,
+            "attribute": "Buy",
+            "color": "255,0,0",
+            "opacity": 0.7321
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 5,
+            "attribute": "off",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 18,
+            "attribute": "automatically.",
+            "color": "255,0,0",
+            "opacity": 0.2321
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 17,
+            "attribute": "any",
+            "color": "255,0,0",
+            "opacity": 0.2143
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 61,
+            "attribute": "women's",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 32,
+            "attribute": "hair",
+            "color": "255,0,0",
+            "opacity": 0.4821
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 33,
+            "attribute": "styling",
+            "color": "255,0,0",
+            "opacity": 0.5
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 27,
+            "attribute": "product",
+            "color": "255,0,0",
+            "opacity": 0.3929
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 6,
+            "attribute": "and",
+            "color": "255,0,0",
+            "opacity": 0.0179
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 6,
+            "attribute": "receive",
+            "color": "255,0,0",
+            "opacity": 0.0179
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 10,
+            "attribute": "$3",
+            "color": "255,0,0",
+            "opacity": 0.0893
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 4": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "$3 Off Hair Styling - Men",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 42,
+            "attribute": "Buy",
+            "color": "255,0,0",
+            "opacity": 0.6379
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 5,
+            "attribute": "off",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 20,
+            "attribute": "automatically.",
+            "color": "255,0,0",
+            "opacity": 0.2586
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 20,
+            "attribute": "any",
+            "color": "255,0,0",
+            "opacity": 0.2586
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 63,
+            "attribute": "women's",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 35,
+            "attribute": "hair",
+            "color": "255,0,0",
+            "opacity": 0.5172
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 40,
+            "attribute": "styling",
+            "color": "255,0,0",
+            "opacity": 0.6034
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 32,
+            "attribute": "product",
+            "color": "255,0,0",
+            "opacity": 0.4655
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 16,
+            "attribute": "and",
+            "color": "255,0,0",
+            "opacity": 0.1897
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 9,
+            "attribute": "receive",
+            "color": "255,0,0",
+            "opacity": 0.069
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 8,
+            "attribute": "$3",
+            "color": "255,0,0",
+            "opacity": 0.0517
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 5": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "BOGO Shampoo - 50% Off",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 22,
+            "attribute": "Buy",
+            "color": "255,0,0",
+            "opacity": 0.2267
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 14,
+            "attribute": "second",
+            "color": "255,0,0",
+            "opacity": 0.12
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 8,
+            "attribute": "shampoo",
+            "color": "255,0,0",
+            "opacity": 0.04
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 7,
+            "attribute": "50%",
+            "color": "255,0,0",
+            "opacity": 0.0267
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 8,
+            "attribute": "off",
+            "color": "255,0,0",
+            "opacity": 0.04
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 22,
+            "attribute": "(of",
+            "color": "255,0,0",
+            "opacity": 0.2267
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 45,
+            "attribute": "equal",
+            "color": "255,0,0",
+            "opacity": 0.5333
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 25,
+            "attribute": "or",
+            "color": "255,0,0",
+            "opacity": 0.2667
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 80,
+            "attribute": "lesser",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 18,
+            "WordCounts": 54,
+            "attribute": "value)!!",
+            "color": "255,0,0",
+            "opacity": 0.6533
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 15,
+            "attribute": "one",
+            "color": "255,0,0",
+            "opacity": 0.1333
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 12,
+            "attribute": "shampoo,",
+            "color": "255,0,0",
+            "opacity": 0.0933
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 7,
+            "attribute": "any",
+            "color": "255,0,0",
+            "opacity": 0.0267
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 5,
+            "attribute": "brand",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 7,
+            "attribute": "or",
+            "color": "255,0,0",
+            "opacity": 0.0267
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 6,
+            "attribute": "size,",
+            "color": "255,0,0",
+            "opacity": 0.0133
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 5,
+            "attribute": "get",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 6,
+            "attribute": "a",
+            "color": "255,0,0",
+            "opacity": 0.0133
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 6": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "$5 Off Intense Color",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 41,
+            "attribute": "Passionate",
+            "color": "255,0,0",
+            "opacity": 0.814
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 10,
+            "attribute": "any",
+            "color": "255,0,0",
+            "opacity": 0.093
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 29,
+            "attribute": "Intense",
+            "color": "255,0,0",
+            "opacity": 0.5349
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 26,
+            "attribute": "hair",
+            "color": "255,0,0",
+            "opacity": 0.4651
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 23,
+            "attribute": "color",
+            "color": "255,0,0",
+            "opacity": 0.3953
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 26,
+            "attribute": "this",
+            "color": "255,0,0",
+            "opacity": 0.4651
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 32,
+            "attribute": "week!",
+            "color": "255,0,0",
+            "opacity": 0.6047
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 49,
+            "attribute": "Pink,",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 49,
+            "attribute": "Vivacious",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 43,
+            "attribute": "Violet,",
+            "color": "255,0,0",
+            "opacity": 0.8605
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 35,
+            "attribute": "Ruby",
+            "color": "255,0,0",
+            "opacity": 0.6744
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 45,
+            "attribute": "Red",
+            "color": "255,0,0",
+            "opacity": 0.907
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 6,
+            "attribute": "-",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 11,
+            "attribute": "get",
+            "color": "255,0,0",
+            "opacity": 0.1163
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 14,
+            "attribute": "$5",
+            "color": "255,0,0",
+            "opacity": 0.186
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 7": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "1/2 Off Conditioner",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 11,
+            "attribute": "All",
+            "color": "255,0,0",
+            "opacity": 0.0531
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 94,
+            "attribute": "time",
+            "color": "255,0,0",
+            "opacity": 0.7876
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 74,
+            "attribute": "only.",
+            "color": "255,0,0",
+            "opacity": 0.6106
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 11,
+            "attribute": "conditioners,",
+            "color": "255,0,0",
+            "opacity": 0.0531
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 6,
+            "attribute": "all",
+            "color": "255,0,0",
+            "opacity": 0.0088
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 9,
+            "attribute": "brands,",
+            "color": "255,0,0",
+            "opacity": 0.0354
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 7,
+            "attribute": "half",
+            "color": "255,0,0",
+            "opacity": 0.0177
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 5,
+            "attribute": "off",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 17,
+            "attribute": "for",
+            "color": "255,0,0",
+            "opacity": 0.1062
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 17,
+            "attribute": "a",
+            "color": "255,0,0",
+            "opacity": 0.1062
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 118,
+            "attribute": "limited",
+            "color": "255,0,0",
+            "opacity": 1
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 8": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "Free Travel Gift Set",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 47,
+            "attribute": "Purchase",
+            "color": "255,0,0",
+            "opacity": 0.6377
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 11,
+            "attribute": "free",
+            "color": "255,0,0",
+            "opacity": 0.1159
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 10,
+            "attribute": "deluxe",
+            "color": "255,0,0",
+            "opacity": 0.1014
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 11,
+            "attribute": "travel",
+            "color": "255,0,0",
+            "opacity": 0.1159
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 9,
+            "attribute": "gift",
+            "color": "255,0,0",
+            "opacity": 0.087
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 4,
+            "attribute": "set",
+            "color": "255,0,0",
+            "opacity": 0.0145
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 4,
+            "attribute": "(a",
+            "color": "255,0,0",
+            "opacity": 0.0145
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 10,
+            "attribute": "$35",
+            "color": "255,0,0",
+            "opacity": 0.1014
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 8,
+            "attribute": "value).",
+            "color": "255,0,0",
+            "opacity": 0.0725
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 55,
+            "attribute": "$25+",
+            "color": "255,0,0",
+            "opacity": 0.7536
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 15,
+            "attribute": "of",
+            "color": "255,0,0",
+            "opacity": 0.1739
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 19,
+            "attribute": "any",
+            "color": "255,0,0",
+            "opacity": 0.2319
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 72,
+            "attribute": "qualifying",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 40,
+            "attribute": "products",
+            "color": "255,0,0",
+            "opacity": 0.5362
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 5,
+            "attribute": "and",
+            "color": "255,0,0",
+            "opacity": 0.029
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 7,
+            "attribute": "receive",
+            "color": "255,0,0",
+            "opacity": 0.058
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 3,
+            "attribute": "a",
+            "color": "255,0,0",
+            "opacity": 0
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 9": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "Relaxing Lavender",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 6,
+            "attribute": "Your",
+            "color": "255,0,0",
+            "opacity": 0.0286
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 7,
+            "attribute": "of",
+            "color": "255,0,0",
+            "opacity": 0.0571
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 10,
+            "attribute": "of",
+            "color": "255,0,0",
+            "opacity": 0.1429
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 7,
+            "attribute": "our",
+            "color": "255,0,0",
+            "opacity": 0.0571
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 21,
+            "attribute": "Lavender",
+            "color": "255,0,0",
+            "opacity": 0.4571
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 15,
+            "attribute": "Indulgence",
+            "color": "255,0,0",
+            "opacity": 0.2857
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 21,
+            "attribute": "bath",
+            "color": "255,0,0",
+            "opacity": 0.4571
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 25,
+            "attribute": "salt.",
+            "color": "255,0,0",
+            "opacity": 0.5714
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 11,
+            "attribute": "Pamper",
+            "color": "255,0,0",
+            "opacity": 0.1714
+          },
+          {
+            "WordNum": 18,
+            "WordCounts": 14,
+            "attribute": "yourself",
+            "color": "255,0,0",
+            "opacity": 0.2571
+          },
+          {
+            "WordNum": 19,
+            "WordCounts": 7,
+            "attribute": "with",
+            "color": "255,0,0",
+            "opacity": 0.0571
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 12,
+            "attribute": "perfect",
+            "color": "255,0,0",
+            "opacity": 0.2
+          },
+          {
+            "WordNum": 20,
+            "WordCounts": 10,
+            "attribute": "our",
+            "color": "255,0,0",
+            "opacity": 0.1429
+          },
+          {
+            "WordNum": 21,
+            "WordCounts": 26,
+            "attribute": "French-milled",
+            "color": "255,0,0",
+            "opacity": 0.6
+          },
+          {
+            "WordNum": 22,
+            "WordCounts": 18,
+            "attribute": "lavender",
+            "color": "255,0,0",
+            "opacity": 0.3714
+          },
+          {
+            "WordNum": 23,
+            "WordCounts": 13,
+            "attribute": "soap",
+            "color": "255,0,0",
+            "opacity": 0.2286
+          },
+          {
+            "WordNum": 24,
+            "WordCounts": 29,
+            "attribute": "minis",
+            "color": "255,0,0",
+            "opacity": 0.6857
+          },
+          {
+            "WordNum": 25,
+            "WordCounts": 5,
+            "attribute": "while",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 26,
+            "WordCounts": 13,
+            "attribute": "moisturizing",
+            "color": "255,0,0",
+            "opacity": 0.2286
+          },
+          {
+            "WordNum": 27,
+            "WordCounts": 8,
+            "attribute": "your",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 28,
+            "WordCounts": 14,
+            "attribute": "face",
+            "color": "255,0,0",
+            "opacity": 0.2571
+          },
+          {
+            "WordNum": 29,
+            "WordCounts": 8,
+            "attribute": "with",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 15,
+            "attribute": "weekend",
+            "color": "255,0,0",
+            "opacity": 0.2857
+          },
+          {
+            "WordNum": 30,
+            "WordCounts": 8,
+            "attribute": "a",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 31,
+            "WordCounts": 8,
+            "attribute": "new",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 32,
+            "WordCounts": 22,
+            "attribute": "lavender",
+            "color": "255,0,0",
+            "opacity": 0.4857
+          },
+          {
+            "WordNum": 33,
+            "WordCounts": 40,
+            "attribute": "masque.",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 7,
+            "attribute": "is",
+            "color": "255,0,0",
+            "opacity": 0.0571
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 15,
+            "attribute": "calling!",
+            "color": "255,0,0",
+            "opacity": 0.2857
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 8,
+            "attribute": "Relax",
+            "color": "255,0,0",
+            "opacity": 0.0857
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 9,
+            "attribute": "in",
+            "color": "255,0,0",
+            "opacity": 0.1143
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 9,
+            "attribute": "a",
+            "color": "255,0,0",
+            "opacity": 0.1143
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 16,
+            "attribute": "bath",
+            "color": "255,0,0",
+            "opacity": 0.3143
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 10": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "30% Off Shampoo",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 7,
+            "attribute": "30%",
+            "color": "255,0,0",
+            "opacity": 0.0325
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 106,
+            "attribute": "time",
+            "color": "255,0,0",
+            "opacity": 0.8374
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 79,
+            "attribute": "only.",
+            "color": "255,0,0",
+            "opacity": 0.6179
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 3,
+            "attribute": "off",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 5,
+            "attribute": "all",
+            "color": "255,0,0",
+            "opacity": 0.0163
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 8,
+            "attribute": "shampoos,",
+            "color": "255,0,0",
+            "opacity": 0.0407
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 4,
+            "attribute": "all",
+            "color": "255,0,0",
+            "opacity": 0.0081
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 4,
+            "attribute": "brands,",
+            "color": "255,0,0",
+            "opacity": 0.0081
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 17,
+            "attribute": "for",
+            "color": "255,0,0",
+            "opacity": 0.1138
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 17,
+            "attribute": "a",
+            "color": "255,0,0",
+            "opacity": 0.1138
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 126,
+            "attribute": "limited",
+            "color": "255,0,0",
+            "opacity": 1
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 11": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "$4 Off Intense Color",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 44,
+            "attribute": "Passionate",
+            "color": "255,0,0",
+            "opacity": 0.8039
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 35,
+            "attribute": "Intense",
+            "color": "255,0,0",
+            "opacity": 0.6275
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 24,
+            "attribute": "hair",
+            "color": "255,0,0",
+            "opacity": 0.4118
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 26,
+            "attribute": "color",
+            "color": "255,0,0",
+            "opacity": 0.451
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 3,
+            "attribute": "for",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 6,
+            "attribute": "$4",
+            "color": "255,0,0",
+            "opacity": 0.0588
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 4,
+            "attribute": "off",
+            "color": "255,0,0",
+            "opacity": 0.0196
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 20,
+            "attribute": "this",
+            "color": "255,0,0",
+            "opacity": 0.3333
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 26,
+            "attribute": "week!",
+            "color": "255,0,0",
+            "opacity": 0.451
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 54,
+            "attribute": "Pink,",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 50,
+            "attribute": "Vivacious",
+            "color": "255,0,0",
+            "opacity": 0.9216
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 45,
+            "attribute": "Violet,",
+            "color": "255,0,0",
+            "opacity": 0.8235
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 43,
+            "attribute": "Ruby",
+            "color": "255,0,0",
+            "opacity": 0.7843
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 53,
+            "attribute": "Red",
+            "color": "255,0,0",
+            "opacity": 0.9804
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 6,
+            "attribute": "-",
+            "color": "255,0,0",
+            "opacity": 0.0588
+          },
+          {
+            "WordNum": 8,
+            "WordCounts": 8,
+            "attribute": "get",
+            "color": "255,0,0",
+            "opacity": 0.098
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 10,
+            "attribute": "any",
+            "color": "255,0,0",
+            "opacity": 0.1373
+          }
+        ]
+      }
+    },
+    {
+      "figure_4e_ 12": {
+        "title": "Dislikes",
+        "subTitle": "",
+        "xAxisTitle": "",
+        "yAxisTitle": "",
+        "questionID": "",
+        "metadata": {
+          "confidenceInterval": "false",
+          "dataValue": "",
+          "baseSize": 599,
+          "average": "",
+          "chartType": "textHighlighter",
+          "orientation": "",
+          "dataType": "1d",
+          "conceptName": "BOGO Shampoo - Free",
+          "colors": [],
+          "keyOrder": []
+        },
+        "data": [
+          {
+            "WordNum": 1,
+            "WordCounts": 32,
+            "attribute": "Buy",
+            "color": "255,0,0",
+            "opacity": 0.3605
+          },
+          {
+            "WordNum": 10,
+            "WordCounts": 5,
+            "attribute": "second",
+            "color": "255,0,0",
+            "opacity": 0.0465
+          },
+          {
+            "WordNum": 11,
+            "WordCounts": 3,
+            "attribute": "shampoo",
+            "color": "255,0,0",
+            "opacity": 0.0233
+          },
+          {
+            "WordNum": 12,
+            "WordCounts": 1,
+            "attribute": "FREE",
+            "color": "255,0,0",
+            "opacity": 0
+          },
+          {
+            "WordNum": 13,
+            "WordCounts": 13,
+            "attribute": "(of",
+            "color": "255,0,0",
+            "opacity": 0.1395
+          },
+          {
+            "WordNum": 14,
+            "WordCounts": 31,
+            "attribute": "equal",
+            "color": "255,0,0",
+            "opacity": 0.3488
+          },
+          {
+            "WordNum": 15,
+            "WordCounts": 19,
+            "attribute": "or",
+            "color": "255,0,0",
+            "opacity": 0.2093
+          },
+          {
+            "WordNum": 16,
+            "WordCounts": 87,
+            "attribute": "lesser",
+            "color": "255,0,0",
+            "opacity": 1
+          },
+          {
+            "WordNum": 17,
+            "WordCounts": 52,
+            "attribute": "value)!!",
+            "color": "255,0,0",
+            "opacity": 0.593
+          },
+          {
+            "WordNum": 2,
+            "WordCounts": 16,
+            "attribute": "one",
+            "color": "255,0,0",
+            "opacity": 0.1744
+          },
+          {
+            "WordNum": 3,
+            "WordCounts": 15,
+            "attribute": "shampoo,",
+            "color": "255,0,0",
+            "opacity": 0.1628
+          },
+          {
+            "WordNum": 4,
+            "WordCounts": 9,
+            "attribute": "any",
+            "color": "255,0,0",
+            "opacity": 0.093
+          },
+          {
+            "WordNum": 5,
+            "WordCounts": 7,
+            "attribute": "brand",
+            "color": "255,0,0",
+            "opacity": 0.0698
+          },
+          {
+            "WordNum": 6,
+            "WordCounts": 7,
+            "attribute": "or",
+            "color": "255,0,0",
+            "opacity": 0.0698
+          },
+          {
+            "WordNum": 7,
+            "WordCounts": 9,
+            "attribute": "size,",
+            "color": "255,0,0",
+            "opacity": 0.093
+          },
+          {
+            "WordNum": 9,
+            "WordCounts": 1,
+            "attribute": "a",
+            "color": "255,0,0",
+            "opacity": 0
+          }
+        ]
+      }
+    }
+  ]
+}
